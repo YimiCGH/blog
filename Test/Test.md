@@ -5,7 +5,7 @@
 ![Alt text](/Test/image.png)
 ![Alt text](/image.png)
 ![Alt text](image.jpg)
-![Alt text](/Test/image.png)
+![Alt text](/Test/image.jpg)
 
 ![Alt text](/Test/image-1.png "例子")
 ```C#
