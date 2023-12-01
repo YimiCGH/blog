@@ -7,7 +7,7 @@
 ![例子](/img/image.jpg "图片标题")
 
 
-![例子](/img/image-1.png "示例")
+![例子](/img/image2.png "示例")
 
 ```C#
 AddForceAtPosition(-Vector3.up * hoverForce, other.transform.position+new Vector3(0, 0.5f, 0), ForceMode.Acceleration):
