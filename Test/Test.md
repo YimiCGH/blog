@@ -10,6 +10,7 @@
 ## new 图片
 ![Alt text](/Test/img/image.jpg)
 ![](/Test/img/image.jpg)
+![例子](/img/image.jpg)
 
 ![Alt text](/Test/image-1.png "例子")
 ```C#
